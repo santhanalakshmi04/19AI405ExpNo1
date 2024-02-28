@@ -1,5 +1,5 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: santhana lakshmi K</h3>
+<h3>Name: Santhana Lakshmi K</h3>
 <h3>Register Number: 212222240091</h3>
 
 <h3>AIM:</h3>
